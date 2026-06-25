@@ -6,36 +6,36 @@ Bioinformatics Workflow Copilot powered by RAG (Retrieval-Augmented Generation)
 
 ## Overview
 
-BioFlow AI adalah asisten bioinformatika berbasis Large Language Model (LLM) dan Retrieval-Augmented Generation (RAG) yang membantu mahasiswa, peneliti pemula, dan praktisi bioinformatika memahami workflow analisis data biologis.
+BioFlow AI is a bioinformatics assistant based on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) that helps students, early-career researchers, and bioinformatics practitioners understand biological data analysis workflows.
 
-Alih-alih mengandalkan pengetahuan internal model, BioFlow AI menjawab pertanyaan berdasarkan knowledge base yang telah diindeks menggunakan vector database.
+Instead of relying on the model’s internal knowledge, BioFlow AI answers questions based on a knowledge base that has been indexed using a vector database.
 
 ---
 
 ## Business Problem
 
-Mahasiswa dan peneliti pemula sering mengalami kesulitan dalam:
+Students and early-career researchers often face difficulties in:
 
-- Memilih tools bioinformatika yang tepat
-- Memahami perbedaan antar tools
-- Menentukan workflow analisis yang sesuai
-- Mengikuti best practices dalam analisis data biologis
+- Choosing the right bioinformatics tools
+- Understanding the differences between tools
+- Determining the appropriate analysis workflow
+- Following best practices in biological data analysis
 
-Dokumentasi resmi biasanya tersebar di banyak sumber dan menggunakan terminologi teknis yang sulit dipahami oleh pemula.
+Official documentation is usually scattered across many sources and uses technical terminology that is difficult for beginners to understand.
 
 ---
 
 ## Proposed Solution
 
-BioFlow AI menyediakan:
+BioFlow AI provides:
 
-- Workflow recommendation
-- Tool comparison
+- Workflow recommendations
+- Tool comparisons
 - Decision support
 - Best practice guidance
 - Educational explanations
 
-dengan memanfaatkan kombinasi:
+by leveraging a combination of:
 
 - Retrieval-Augmented Generation (RAG)
 - Vector Search
